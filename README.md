@@ -1,4 +1,10 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+
+<div align="center" width="50">
+
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+
+</div>
 ### I'm currently learning on how to use GitHub
 ### I'm currently working in a collaborative repository to get a muti-purposeful repo with different coding langauges.
 ### Pronouns: He/Him
