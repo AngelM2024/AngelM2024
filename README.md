@@ -1,4 +1,7 @@
 ### Hi there 👋
+### I'm currently learning on how to use GitHub
+### I'm currently working in a collaborative repository to get a muti-purposeful repo with different coding langauges.
+### Pronouns: He/Him
 
 <!--
 **AngelM2024/AngelM2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
