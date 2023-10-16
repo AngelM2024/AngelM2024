@@ -1,4 +1,4 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fcomputer-gif-artist-code-fedryX7dMGMe6lgqDm&psig=AOvVaw0MvKuP8ldc782OmjeBNFYo&ust=1697551608763000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCOCDwtje-oEDFQAAAAAdAAAAABAD width="30px"></h2>
 
 <div align="center" width="50">
 
